@@ -19,5 +19,5 @@ For any questions or feedback, please reach out:
 **LinkedIn:** https://www.linkedin.com/in/godwin-ifeanyi-uche/
 
 
-Acknowledgments
+Acknowledgments :
 Thanks to the Python community and my coursework at the Open University for supporting my learning journey in programming and cybersecurity.
